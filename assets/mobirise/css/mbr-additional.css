@@ -787,6 +787,8 @@ a {
 .cid-vdXcOCYnbt {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-vdXcOCYnbt nav.navbar {
   position: fixed;
@@ -903,7 +905,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-vdXcOCYnbt .navbar.opened {
   transition: all 0.3s;
@@ -1359,6 +1362,8 @@ a {
 .cid-vdXcOCYnbt {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-vdXcOCYnbt nav.navbar {
   position: fixed;
@@ -1475,7 +1480,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-vdXcOCYnbt .navbar.opened {
   transition: all 0.3s;
@@ -1986,6 +1992,8 @@ a {
 .cid-vdXcOCYnbt {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-vdXcOCYnbt nav.navbar {
   position: fixed;
@@ -2102,7 +2110,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-vdXcOCYnbt .navbar.opened {
   transition: all 0.3s;
@@ -2516,6 +2525,8 @@ a {
 .cid-vdXcOCYnbt {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-vdXcOCYnbt nav.navbar {
   position: fixed;
@@ -2632,7 +2643,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-vdXcOCYnbt .navbar.opened {
   transition: all 0.3s;
