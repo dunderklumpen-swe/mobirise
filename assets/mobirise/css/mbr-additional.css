@@ -784,11 +784,12 @@ a {
   outline-offset: 2px !important;
   transition: outline 0.2s ease-in-out;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: relative !important;
+.cid-vdXcOCYnbt {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: absolute !important;
+.cid-vdXcOCYnbt nav.navbar {
+  position: fixed;
 }
 .cid-vdXcOCYnbt .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1125,6 +1126,7 @@ a {
 }
 .cid-vdXcOCYnbt .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-vdXcOCYnbt a.nav-link {
   display: flex;
@@ -1354,11 +1356,12 @@ a {
   color: #ffffff;
   text-align: center;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: relative !important;
+.cid-vdXcOCYnbt {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: absolute !important;
+.cid-vdXcOCYnbt nav.navbar {
+  position: fixed;
 }
 .cid-vdXcOCYnbt .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1695,6 +1698,7 @@ a {
 }
 .cid-vdXcOCYnbt .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-vdXcOCYnbt a.nav-link {
   display: flex;
@@ -1979,11 +1983,12 @@ a {
 .cid-vdjEzLSAWp .content-head {
   max-width: 800px;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: relative !important;
+.cid-vdXcOCYnbt {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: absolute !important;
+.cid-vdXcOCYnbt nav.navbar {
+  position: fixed;
 }
 .cid-vdXcOCYnbt .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2320,6 +2325,7 @@ a {
 }
 .cid-vdXcOCYnbt .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-vdXcOCYnbt a.nav-link {
   display: flex;
@@ -2507,11 +2513,12 @@ a {
 .cid-vdjLdNby5G .mbr-section-btn {
   text-align: center;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: relative !important;
+.cid-vdXcOCYnbt {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-vdXcOCYnbt .navbar-dropdown {
-  position: absolute !important;
+.cid-vdXcOCYnbt nav.navbar {
+  position: fixed;
 }
 .cid-vdXcOCYnbt .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2848,6 +2855,7 @@ a {
 }
 .cid-vdXcOCYnbt .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-vdXcOCYnbt a.nav-link {
   display: flex;
